@@ -1,2 +1,2 @@
-# Test
-It's a test repository.
+# Backup
+It's a repository for storage.
